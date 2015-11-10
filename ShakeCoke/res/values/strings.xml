@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="red_drawable">#CCAA1883</drawable>
+    <drawable name="green_drawable">#CC123Bff</drawable>
+    
+    <!-- App name -->
+    <string name="app_name">M1APP</string>
+    <string name="app_bi">REFIT</string>
+
+    <!-- menu item name -->
+    <string name="goMain">첫화면</string>
+    <string name="goProfile">사용자</string>
+    <string name="goExercise">운동측정</string>
+    <string name="goGame">게임</string>
+    <string name="goHistory">기록</string>
+    <string name="goSetting">설정</string>
+
+    <!-- comment -->
+    <string name="searchingBT">건강측정 기기를 찾고 있습니다.\n잠시만 기다려주십시오.</string>
+    <string name="holddevice_1">단자를 다시한번 정확하게 잡아주세요</string>
+    <string name="holddevice_2">측정을 위해 단자 4군데를\n손가락으로 잡아주세요</string>
+    <string name="autostart">후 자동으로 측정이 시작됩니다.</string>
+
+    <!-- title name -->
+    <string name="healthMeasure">건강측정</string>
+    <string name="biorhythm">바이오리듬</string>
+    <string name="heartrate">심박수</string>
+    <string name="stress">스트레스</string>
+    <string name="bmi">신체지수</string>
+    <string name="title_activity_game_mode">GameModeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_bingo_game">BingoGameActivity</string>
+    <string name="title_activity_tower_game">TowerGameActivity</string>
+    <string name="title_activity_color_game">ColorGameActivity</string>
+    <string name="title_activity_coke_game">CokeGameActivity</string>
+    <string name="title_activity_runner_game">RunnerGameActivity</string>
+
+    <!-- biorhythm ment's -->
+    <string name="biorhythm_test_summary">신체 리듬이 좋지 않습니다. 무리하지마세요\n불안정한 감정상태이고, 작은일에도 우울해 할수 있습니다.\n집중력이나 기억력등 두뇌활동이 좋습니다.</string>
+
+    <!-- bmi ment's -->
+    <string name="userinfo_sex">성  별 :</string>
+    <string name="userinfo_age">나  이 :</string>
+    <string name="userinfo_height">신  장 :</string>
+    <string name="userinfo_weight">몸무게 :</string>
+    <string name="bmi_level_1">UnderWeight</string>
+    <string name="bmi_level_2">Healthy</string>
+    <string name="bmi_level_3">Overweight</string>
+    <string name="bmi_level_4">Obese</string>
+    <string name="bmi_level_5_1">Severely</string>
+    <string name="bmi_level_5_2">Obese</string>
+
+</resources>
