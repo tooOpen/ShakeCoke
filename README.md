@@ -1,3 +1,1 @@
-  
-  # Shake Coke
-  
+# Shake Coke
