@@ -1,7 +1,6 @@
  ![shakecoke](http://cfile29.uf.tistory.com/image/223A6F4C567BF6C433DFB7)
- 
- # Shake Coke
- 
+  # Shake Coke
+
    * Shake Coke is Android health game user should use SHC-M1 made by solmitech corp.
    * User would shake device to explode coke
    * Hard shaking = good Score
