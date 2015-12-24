@@ -19,4 +19,3 @@
  * Android Surfaceview http://developer.android.com/reference/android/view/SurfaceView.html/
  * Eclipse IDE http://www.eclipse.org/
  * Solmitech http://www.solmitech.com/ko/
- * Android Market https://play.google.com/store/apps/details?id=com.solmi.refitgames.dropking
