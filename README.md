@@ -7,8 +7,8 @@
   * Hard shaking = good Score
   * Provide local Database SQLite
  
-![shakecoke](http://cfile22.uf.tistory.com/image/2117CA50567BF46F2F7081)
-![shakecoke](http://cfile26.uf.tistory.com/image/2216EE50567BF479316266)
+   ![shakecoke](http://cfile22.uf.tistory.com/image/2117CA50567BF46F2F7081)
+   ![shakecoke](http://cfile26.uf.tistory.com/image/2216EE50567BF479316266)
  
   # Links to the Game Video Youtube
  
