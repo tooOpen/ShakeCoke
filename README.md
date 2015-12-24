@@ -14,7 +14,7 @@
  
  * https://www.youtube.com/watch?v=P_-uGFNbMMM
  
- ## Frameworks and tools
+  ## Frameworks and tools
  
  * Android Surfaceview http://developer.android.com/reference/android/view/SurfaceView.html/
  * Eclipse IDE http://www.eclipse.org/
