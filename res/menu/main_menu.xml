@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item_goMain" android:title="@string/goMain" android:icon="@drawable/btn_gomain"></item>
+    <item android:id="@+id/item_goExercise" android:title="@string/goExercise" android:icon="@drawable/btn_goexercise"></item>
+    <item android:id="@+id/item_goGame" android:title="@string/goGame" android:icon="@drawable/btn_gogame"></item>
+    <item android:id="@+id/item_goHistory" android:title="@string/goHistory" android:icon="@drawable/btn_gohistory"></item>
+    <item android:id="@+id/item_goSetting" android:title="@string/goSetting" android:icon="@drawable/btn_gosetting"></item>
+</menu>
