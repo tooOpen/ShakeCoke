@@ -1,27 +1,22 @@
- ![Room for Change](http://sturdyhelmetgames.com/roomforchange_html/pyramid.png)
+ ![Room for Change](http://cfile29.uf.tistory.com/image/223A6F4C567BF6C433DFB7)
  
- ## Room for Change
+ ## Shake Coke
  
- RfC is a randomly generated action RPG. You play as a chubby archeologist who is tasked to retrieve three sacred artefacts from the pyramid of the legendary Pharaohs.
+ * Shake Coke is Android health game user should use SHC-M1 made by solmitech corp.
+ * User would shake device to explode coke
+ * Hard shaking = good Score
+ * Provide local Database SQLite
  
- Your way is blocked by stone chamber doors that can't be opened unless there is also a door on the other side. To access other chambers you must change the layout of the maze by moving the chambers in vertical or horizontal direction.
+-![Room for Change](http://cfile22.uf.tistory.com/image/2117CA50567BF46F2F7081)
++![Room for Change](http://cfile26.uf.tistory.com/image/2216EE50567BF479316266)
  
- But it's not as easy as it sounds! The pyramid is full of dangerous spiders, snakes and mummies!
+ ## Links to the Game Video Youtube
  
- Try to collect all three artefacts and escape the pyramid! Have fun! :)
- 
--![Room for Change](http://sturdyhelmetgames.com/roomforchange_html/screenshot.png)
-+![Room for Change](http://sturdyhelmetgames.com/roomforchange_html/screenshot2.png)
- 
- ## Links to the Game
- 
- * http://www.sturdyhelmetgames.com/roomforchange_html (WebGL, Chrome recommended)
+ * https://www.youtube.com/watch?v=P_-uGFNbMMM
  
  ## Frameworks and tools
  
- * LibGDX game framework http://libgdx.badlogicgames.com/
+ * Android Surfaceview http://developer.android.com/reference/android/view/SurfaceView.html/
  * Eclipse IDE http://www.eclipse.org/
- * http://www.bfxr.net/
- * Audacity sound editor http://audacity.sourceforge.net/
- * Linux MultiMedia Studio http://lmms.sourceforge.net/
- * GraphicsGale http://www.humanbalance.net/gale/us/
+ * Solmitech http://www.solmitech.com/ko/
+ * Android Market https://play.google.com/store/apps/details?id=com.solmi.refitgames.dropking
