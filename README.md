@@ -18,3 +18,6 @@
   * Android Surfaceview http://developer.android.com/reference/android/view/SurfaceView.html/
   * Eclipse IDE http://www.eclipse.org/
   * Solmitech http://www.solmitech.com/ko/
+ 
+# Contact & More Information
+  * http://bsh0608.tistory.com/entry/%E3%85%81
