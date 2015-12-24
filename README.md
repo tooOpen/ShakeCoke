@@ -10,7 +10,7 @@
 -![Room for Change](http://cfile22.uf.tistory.com/image/2117CA50567BF46F2F7081)
 +![Room for Change](http://cfile26.uf.tistory.com/image/2216EE50567BF479316266)
  
- ## Links to the Game Video Youtube
+  ## Links to the Game Video Youtube
  
  * https://www.youtube.com/watch?v=P_-uGFNbMMM
  
